@@ -128,23 +128,36 @@ table {
   border-spacing: 0;
 }
 h1 {
-  font-size: 40px;
+  font-size: 60px;
 }
 h2 {
-  font-size: 20px;
+  font-size: 40px;
 }
 h3 {
-  font-size: 15px;
+  font-size: 20px;
 }
 h4 {
   font-size: 15px;
 }
 body {
   background-color: cornflowerblue;
+  font-size: 12px;
 }
 .bgcolor {
   background-color: darkkhaki;
 }
 .colorbg {
   background-color: darksalmon;
+}
+.background {
+  background-color: green;
+  font-size: 12px;
+}
+.mainheader {
+  text-align: center;
+  background-color: cadetblue;
+}
+.footer {
+  text-align: center;
+  background-color: darkgray;
 }
